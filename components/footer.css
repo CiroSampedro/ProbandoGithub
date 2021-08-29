@@ -1,0 +1,16 @@
+footer {
+  background-color: #3f2ff7;
+  display: inline-block;
+  position: fixed;
+  bottom: 0%;
+  right: 0%;
+  left: 0%;
+  text-align: center;
+  color: white;
+  height: 1.3rem;
+}
+
+footer p {
+  margin: initial;
+}
+/*# sourceMappingURL=footer.css.map */

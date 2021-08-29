@@ -1,0 +1,26 @@
+.conteiner {
+  padding: 100px 200px;
+  background-color: white;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 33% 33% 33%;
+      grid-template-columns: 33% 33% 33%;
+  position: initial;
+  top: 20%;
+  left: 20%;
+}
+
+.item {
+  background-color: white;
+  text-decoration: none;
+  margin-right: 0rem;
+  margin-left: 0rem;
+  padding: 1rem;
+  text-align: center;
+}
+
+.item:hover {
+  border: 0.5px solid black;
+  border-width: 3px;
+}
+/*# sourceMappingURL=price.css.map */

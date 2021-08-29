@@ -1,0 +1,9 @@
+input {
+@if $root-size = 4px {
+    color: yellow;
+}
+}
+@for $i from 2 to 5 {
+    .form { background-color: black;
+   font-size: 6px; }   
+}

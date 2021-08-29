@@ -1,0 +1,16 @@
+.where {
+  color: #0047ab;
+  font-size: 1.2rem;
+  display: block;
+  margin-top: 8rem;
+  margin-left: 15rem;
+  float: left;
+}
+
+.map {
+  display: block;
+  margin-right: 20rem;
+  margin-left: 15rem;
+  float: right;
+}
+/*# sourceMappingURL=where.css.map */

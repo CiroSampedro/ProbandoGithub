@@ -11,6 +11,7 @@
 .header a {
 	color: white;
 	text-decoration: none;
+	top: 5%;
 }
 
 .conteinerLogoNav {
@@ -19,7 +20,6 @@
 	margin: 0 auto;
 	display: flex;
 	justify-content: space-between;
-	align-items: center;
 }
 
 .logo {
@@ -51,8 +51,3 @@
 .nav ul li a:hover {
 	background-color: #0d00a3;
 }
-
-/*@media (min-width:200px) {
-	.header {
-		grid-column: 1 / span 3;
-} aun no me salen/*
